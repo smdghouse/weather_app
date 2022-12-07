@@ -79,6 +79,7 @@ form{
     }
     .container{
         overflow-y: hidden;
+        background-position: 20% 20%;
     }
     .container2
     {
