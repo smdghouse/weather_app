@@ -76,6 +76,11 @@ form{
     .weather{
         padding: 10px;
     }
+    .container2
+    {
+        bottom: 52px;
+        
+    }
 }
 .weather2 p {
 
